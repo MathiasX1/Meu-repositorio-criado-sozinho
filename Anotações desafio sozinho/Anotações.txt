@@ -1,3 +1,4 @@
 Link para Download do Git: https://git-scm.com/downloads
 Esse é meu primeiro repositório apenas com as dicas do expert.
 Comandos Importantes na hora de usar o Git: git push origin main leva os dados local para a nuvem GitHub. git add . adiciona no controle de versão. git commit -m "" faz um commit em um arquivo modificado.
+Para levar os seus dados/repositório da nuvem para o seu local basta copiar o link HTTPS e no local de sua escolha fazer Git Bash e inserir o comando git clone (e o link HTTPS do seu repositório).
