@@ -1,2 +1,3 @@
 Link para Download do Git: https://git-scm.com/downloads
 Esse é meu primeiro repositório apenas com as dicas do expert.
+Comandos Importantes na hora de usar o Git: git push origin main leva os dados local para a nuvem GitHub.
