@@ -1,2 +1,5 @@
-# Meu-repositorio-criado-sozinho
-Tentativa de criar repositório sozinho 2
+# Meu primeiro repositório criado sozinho
+Desafio
+
+## Links Úteis
+[Guia de comandos para Markdown](https://www.markdownguide.org/basic-syntax/)
